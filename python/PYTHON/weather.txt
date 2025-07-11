@@ -1,0 +1,8 @@
+Weather: Clouds
+Description: Broken clouds
+Temperature: 27 °C
+Pressure: 1010 hPa
+Humidity: 63%
+Wind Speed: 5.8 m/s
+Sunrise: 05:59 AM
+Sunset: 06:50 PM
